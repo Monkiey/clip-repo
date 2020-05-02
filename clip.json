@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "beta": true,
+      "beta": false,
       "bundleIdentifier": "com.rileytestut.Clip.Beta",
       "developerName": "Riley Testut",
       "downloadURL": "https://f000.backblazeb2.com/file/altstore/clip-beta.ipa",
