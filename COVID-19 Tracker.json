@@ -1,0 +1,27 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.sammydentino.COVID-Tracker",
+      "developerName": "Sammy Dentino",
+      "downloadURL": "https://github.com/sammydentino/COVID-Tracker/releases/download/v2.3.3/COVID.Tracker.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "This app allows you to track current cases of COVID in your area.",
+      "name": "COVID Tracker",
+      "screenshotURLs": [
+        "https://preview.redd.it/ih534u1p12w41.png?width=1125&format=png&auto=webp&s=1eb212c3b742abf285f4cd04d3e4916f5a4212fa",
+        "https://preview.redd.it/a9amup1r12w41.png?width=1125&format=png&auto=webp&s=3bceced473d97605f3bb4b092268b346fb0944e4"
+      ],
+      "size": 2184796,
+      "subtitle": "A COVID-19 Tracker",
+      "tintColor": "add8e6",
+      "version": "v2.3.3",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Tracks cases in countries, states, and the current news\n\n"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "testable",
+  "news": [],
+  "userInfo": {}
+}
