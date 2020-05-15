@@ -18,28 +18,9 @@
       "version": "1.0b",
       "versionDate": "2019-01-24T18:20:00-08:00",
       "versionDescription": "Disables notification vibration when sound is disabled for notifications. Assuming all goes well, this should be the final beta before the public launch! Please report any last-minute bugs you find to support@altstore.io.\n"
-      {
-      "beta": false,
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "julioverne",
-      "downloadURL": "https://doc-00-1c-docs.googleusercontent.com/docs/securesc/bl373jt9895pv",
-      "iconURL": "https://3i9f2l49oo5mija3l3ymvry1-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/spotify-icon-2.png",
-      "localizedDescription": "Spotify Premium features for free",
-      "name": "Spotify Premuim",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 51338943,
-      "subtitle": "Spotify Premium for free.",
-      "tintColor": "018084",
-      "version": "8.57&1.0",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "\n\n"
     }
   ],
   "identifier": "com.example.source",
-  "name": "Apps",
+  "name": "Clip",
   "news": [],
   "userInfo": {}
