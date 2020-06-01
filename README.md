@@ -1,4 +1,4 @@
-# testable-altrepo
+# clip-altrepo
 A source to get the Clip Beta after sideloading the beta Altstore
 How to sideload the beta Altstore
 
