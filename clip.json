@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.rileytestut.Clip.Beta",
       "developerName": "Riley Testut",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/clip-beta.ipa",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_1_b1.ipa",
       "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
       "localizedDescription": "Clip is a simple clipboard manager for iOS. Unlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.In addition to background monitoring, Clip also has these features:\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\nDownload Clip today, and never worry about losing your clipboard again!",
       "name": "Clip",
@@ -15,7 +15,7 @@
       "size": 462771,
       "subtitle": "Manage your clipboard history with ease.",
       "tintColor": "EC008C",
-      "version": "1.0b",
+      "version": "1.1b1",
       "versionDate": "2019-01-24T18:20:00-08:00",
       "versionDescription": "• Disables notification vibration when sound is disabled for notifications.\nAssuming all goes well, this should be the final beta before the public launch! Please report any last minute bugs you find to support@altstore.io."
     }
