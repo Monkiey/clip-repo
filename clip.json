@@ -16,7 +16,7 @@
       "subtitle": "Manage your clipboard history with ease.",
       "tintColor": "EC008C",
       "version": "1.1b1",
-      "versionDate": "2019-01-24T18:20:00-08:00",
+      "versionDate": "2020-06-17T12:30:00-07:00",
       "versionDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.To enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
     }
   ],
