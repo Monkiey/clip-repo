@@ -6,7 +6,7 @@
       "developerName": "Riley Testut",
       "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-beta.ipa",
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\nNDS support currently includes:\n• Playing DS games\\n• Save States\n• Hold Button\nFeatures I'm still working on:\n• Fast Forward Cheats\n• Controller skin (using placeholder controller skin for now)\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\nNDS support currently includes:\n• Playing DS games\n• Save States\n• Hold Button\nFeatures I'm still working on:\n• Fast Forward Cheats\n• Controller skin (using placeholder controller skin for now)\nPlease report any issues you find to support@altstore.io. Thanks!",
       "name": "Delta",
       "screenshotURLs": [
         "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
