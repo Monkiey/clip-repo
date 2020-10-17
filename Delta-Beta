@@ -20,7 +20,6 @@
       "version": "1.2b3",
       "versionDate": "2020-04-27T14:30:00-07:00",
       "versionDescription": "**Delta 1.2 GM**\n\nIMPROVEMENTS\n• Improves sync error messages when a game is missing or can’t be synced\n\nBUG FIXES\n• Fixes misplaced DS screens when using external controller\n• Fixes NES games crashing after playing an N64 game\n• Fixes various issues with controller skin filters\n• Fixes swapped DS screens\n• Fixes importing games from Files\n\nThanks for your help beta testing Delta these past few months! This should be the last beta before the public release of Delta 1.2, so please report any last-minute issues so we can have a smooth release 🙂",
-  ],
   "identifier": "com.example.source",
   "name": "Delta",
   "news": [],
